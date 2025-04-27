@@ -2,13 +2,9 @@
 
 This interactive Power BI dashboard provides deep insights into factors contributing to employee performance and attrition. The dashboard helps identify underlying causes of poor performance and offers a visual narrative to assist HR and management in making informed decisions.
 
----
-
 ## 🎯 Project Objective
 
 To analyze employee performance data and uncover the core factors driving attrition, dissatisfaction, and underperformance across various departments and roles. The dashboard serves as a tool for HR analytics and strategic decision-making.
-
----
 
 ## ❓ Key Business Questions (KPIs)
 
@@ -19,12 +15,10 @@ To analyze employee performance data and uncover the core factors driving attrit
 - 🧠 Are highly experienced individuals more likely to leave?
 - 💰 How does the percentage of salary hike affect attrition rates?
 
----
-
 ## 📁 Dataset Used
 ➡️ *Note: This dataset is for educational and portfolio purposes only.*
 
----
+-
 
 ## ⚙️ Project Process
 
