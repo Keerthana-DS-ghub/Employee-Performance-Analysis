@@ -22,9 +22,7 @@ To analyze employee performance data and uncover the core factors driving attrit
 ---
 
 ## 📁 Dataset Used
-
-- `Employee_Performance_Data.csv`  
-  *(Simulated HR data including employee demographics, job role, performance rating, salary hikes, attrition status, and more.)*
+➡️ *Note: This dataset is for educational and portfolio purposes only.*
 
 ---
 
@@ -39,11 +37,8 @@ To analyze employee performance data and uncover the core factors driving attrit
 ---
 
 ## 🖼️ Dashboard Preview
-
+**🔍 Visual Overview:** Key trends and patterns from employee performance analysis.
 ![Dashboard Screenshot](dashboard_screenshot.png)
-
-> 🔍 A visual overview of employee performance and attrition insights.
-
 ---
 
 ## 📦 Files Included
