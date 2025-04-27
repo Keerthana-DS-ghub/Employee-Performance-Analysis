@@ -18,8 +18,6 @@ To analyze employee performance data and uncover the core factors driving attrit
 ## 📁 Dataset Used
 ➡️ *Note: This dataset is for educational and portfolio purposes only.*
 
--
-
 ## ⚙️ Project Process
 
 - 🔍 **Data Cleaning & Transformation**: Performed in Power BI using Power Query Editor (e.g., null value handling, data type formatting).
@@ -28,13 +26,10 @@ To analyze employee performance data and uncover the core factors driving attrit
 - 📊 **Dashboard Design**: Built an intuitive layout with dynamic filters and slicers for deep data exploration.
 - 🎨 **Thematic Styling**: Used consistent color palettes and tooltips for better UX and readability.
 
----
-
 ## 🖼️ Dashboard Preview
 **🔍 Visual Overview:** Key trends and patterns from employee performance analysis.
 
 ![Dashboard Screenshot](DashBoard.png)
----
 
 ## 🧠 Insights Gained
 
@@ -42,8 +37,6 @@ To analyze employee performance data and uncover the core factors driving attrit
 - A lack of salary hike and career growth opportunities led to dissatisfaction.
 - Employees with higher experience were also leaving, indicating poor engagement or mismatched roles.
 - Educational background showed a moderate influence on attrition behavior.
-
----
 
 ## 🙋‍♂️ Author
 
