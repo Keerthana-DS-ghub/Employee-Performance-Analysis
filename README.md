@@ -41,14 +41,6 @@ To analyze employee performance data and uncover the core factors driving attrit
 ![Dashboard Screenshot](dashboard_screenshot.png)
 ---
 
-## 📦 Files Included
-
-- `Employee_Performance_Analysis.pbix` – Power BI project file.
-- `dashboard_screenshot.png` – Dashboard preview image.
-- `data/Employee_Performance_Data.csv` – Source dataset.
-
----
-
 ## 🧠 Insights Gained
 
 - Higher attrition was found among younger employees and certain job roles.
@@ -58,18 +50,9 @@ To analyze employee performance data and uncover the core factors driving attrit
 
 ---
 
-## 🚀 How to Use
-
-1. Clone the repository or download the ZIP.
-2. Open `Employee_Performance_Analysis.pbix` in **Power BI Desktop**.
-3. Load or refresh the dataset if prompted.
-4. Interact with the slicers and filters to explore different employee segments.
-
----
-
 ## 🙋‍♂️ Author
 
-**Shining Star**  
+**Keerthana S**  
 *Data Scientist | Power BI Developer*  
 Feel free to reach out for feedback or collaboration opportunities.
 
