@@ -29,7 +29,7 @@ To analyze employee performance data and uncover the core factors driving attrit
 ## 🖼️ Dashboard Preview
 **🔍 Visual Overview:** Key trends and patterns from employee performance analysis.
 
-![Dashboard Screenshot](DashBoard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## 🧠 Insights Gained
 
